@@ -1,3 +1,6 @@
+ "scripts": {
+    "start": "node server.js"
+  },
 {
   "dependencies": {
     "atob": "^2.1.2",
